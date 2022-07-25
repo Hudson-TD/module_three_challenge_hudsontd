@@ -4,12 +4,14 @@ The goal of this project was to create a functional password generator with some
 
 Live Website Link:
 
+https://hudson-td.github.io/module_three_challenge_hudsontd/
 
 
 Github Repository Link:
 
+https://github.com/Hudson-TD/module_three_challenge_hudsontd
 
 
 Screenshot:
 
-[![Website-Screenshot.png](https://i.postimg.cc/7Lg4bRdH/Website-Screenshot.png)](https://postimg.cc/sBDqNT3q)
+[[![screencapture-hudson-td-github-io-module-three-challenge-hudsontd-2022-07-24-20-52-35.png](https://i.postimg.cc/Bbs41Yc7/screencapture-hudson-td-github-io-module-three-challenge-hudsontd-2022-07-24-20-52-35.png)](https://postimg.cc/TLkZzcsn))
